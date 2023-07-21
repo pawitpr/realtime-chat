@@ -17,4 +17,5 @@ TODO:
     [+] Recieve message on server and broadcast to all clients
 
     [+] Recieve message on client and display it. scrollToBottom etc...
-    
+
+    [+] Storing Messages on Database
