@@ -1,7 +1,7 @@
 # realtime-chat-app
 Realtime chat app using socket.io and vanilla JavaScript and Upstash(Redis) for database
 
-#### Demo: https://realtime-gyan-chat-app.herokuapp.com/
+#### Demo: [https://realtime-gyan-chat-app.herokuapp.com/](Website)
 ## Installation 
 After download or clone run `npm install` to install all the dependancies.
 
