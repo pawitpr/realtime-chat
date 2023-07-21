@@ -3,9 +3,7 @@ Realtime chat app using socket.io and vanilla JavaScript and Upstash(Redis) for 
 
 #### Demo:
 https://rchatapp-7grp.onrender.com/
-<video width="320" height="240" controls>
-  <source src="https://fcdn.pawit.site/pri/2023-07-21%2019-02-52.mp4" type="video/mp4">
-</video>
+![](https://fcdn.pawit.site/pri/2023-07-21%2019-02-52.mp4)
 
 ## Installation 
 After download or clone run `npm install` to install all the dependancies.
